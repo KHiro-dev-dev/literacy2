@@ -38,3 +38,5 @@ for i, s in enumerate(lst):
 print(result)
 
 # クイズの答え：3（foo@bar@baz@@）
+
+# !qGpTzdqr$6QS7j
